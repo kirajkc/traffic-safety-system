@@ -28,7 +28,7 @@ pinMode(A0,INPUT);
   
  analogWrite(enb, 0); 
 
- delay(1000); // Setting the baud rate of Serial Monitor (Arduino)
+ delay(1000);
  
 }
 
