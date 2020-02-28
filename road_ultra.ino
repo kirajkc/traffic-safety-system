@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 SoftwareSerial gsm(2, 3);
-#define trigpin1 4 // digital pin 4 
-#define echopin1 7 // digital pin 3
+#define trigpin1 4 
+#define echopin1 7
 #define trigpin2 5
 #define echopin2 6 
 #define trigpin3 8
